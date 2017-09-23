@@ -1,0 +1,5 @@
+Table of mappings between BBBmini (BeagleBone Black) pins and BBBmicro (PocketBeagle):
+
+Pin name:    BBBmini:    BBBmicro:
+RADIO_TX     P9.11       ?
+...
