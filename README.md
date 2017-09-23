@@ -3,6 +3,10 @@ BBBmicro is a reduced version of the BBBmini PCB (https://github.com/mirkix/BBBM
 
 The original BBBmini PCB (https://github.com/mirkix/BBBMINI-PCB) is designed for BeagleBone Black (http://beagleboard.org/black) and can be soldered by hand by most people since it only uses large "through-hole" components and common "Dupont" servo wiring connectors. However, it's too big & heavy compared to the small PocketBeagle, and the connectors can potentially have a loose connection when on a moving robot or quadcopter, and also not everyone wants to solder their own electronics. So BBBmicro is small enough to suit PocketBeagle, by using tiny SMD components and reliable SMD connectors. BBBmicro is open-source hardware, just like BBBMini, but not many people will be capable of soldering their own SMD board, so BBBmicro will also be available fully built.
 
+Description of the Initial Design (ie: selection of pins & ports needed) is at 
+https://github.com/shervinemami/BBBmicro-PCB/wiki/Initial-Design
+
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BBBmini</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/mirkix" property="cc:attributionName" rel="cc:attributionURL">Mirko Denecke</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
